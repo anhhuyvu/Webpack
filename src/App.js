@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        <a href="./infor.json">Information</a>
       </header>
     </div>
   );
